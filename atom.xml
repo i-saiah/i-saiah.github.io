@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i-saiah.github.io</id>
     <title>Isaiah&apos;s Notion</title>
-    <updated>2020-08-01T11:15:52.537Z</updated>
+    <updated>2020-08-01T11:16:45.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://i-saiah.github.io"/>
     <link rel="self" href="https://i-saiah.github.io/atom.xml"/>
-    <subtitle>任何生活都是一场试验。每年每月，我们都必须把命运押在对未来的预见之上，而这种预见必然基于不完善的知识。</subtitle>
+    <subtitle>任何生活都是一场试验。每年每月，我们都必须把命运押在对未来的预见之上，而这种预见必然基于不完善的知识。——小奥利弗·温德尔·霍姆斯</subtitle>
     <logo>https://i-saiah.github.io/images/avatar.png</logo>
     <icon>https://i-saiah.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Isaiah&apos;s Notion</rights>
