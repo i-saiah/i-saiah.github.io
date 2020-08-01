@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i-saiah.github.io</id>
     <title>Isaiah&apos;s Notion</title>
-    <updated>2020-08-01T12:01:03.442Z</updated>
+    <updated>2020-08-01T14:39:05.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://i-saiah.github.io"/>
     <link rel="self" href="https://i-saiah.github.io/atom.xml"/>
@@ -10,17 +10,6 @@
     <logo>https://i-saiah.github.io/images/avatar.png</logo>
     <icon>https://i-saiah.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Isaiah&apos;s Notion</rights>
-    <entry>
-        <title type="html"><![CDATA[[QT, KOR&ENG] Aug 2020]]></title>
-        <id>https://i-saiah.github.io/post/qt-korandeng-aug-2020/</id>
-        <link href="https://i-saiah.github.io/post/qt-korandeng-aug-2020/">
-        </link>
-        <updated>2020-08-01T13:46:05.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<pre><code> 有一段时间没有静下心来读圣经了，我找出了《活泼的生命韩文版》和《Sena English Edition》的2020年5月刊，计划在本月坚持每天通过这两本书阅读申命记12-26章，争取每天在本帖更新阅读笔记。</code></pre>
-</blockquote>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[（抄袭）Introduction à la syntaxe Markdown]]></title>
         <id>https://i-saiah.github.io/post/chao-xi-introduction-a-la-syntaxe-markdown/</id>
