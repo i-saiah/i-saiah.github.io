@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i-saiah.github.io</id>
     <title>Isaiah&apos;s Notion</title>
-    <updated>2020-08-01T10:09:13.959Z</updated>
+    <updated>2020-08-01T11:02:25.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://i-saiah.github.io"/>
     <link rel="self" href="https://i-saiah.github.io/atom.xml"/>
@@ -10,4 +10,34 @@
     <logo>https://i-saiah.github.io/images/avatar.png</logo>
     <icon>https://i-saiah.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Isaiah&apos;s Notion</rights>
+    <entry>
+        <title type="html"><![CDATA[（抄袭）Introduction à la syntaxe Markdown]]></title>
+        <id>https://i-saiah.github.io/post/chao-xi-introduction-a-la-syntaxe-markdown/</id>
+        <link href="https://i-saiah.github.io/post/chao-xi-introduction-a-la-syntaxe-markdown/">
+        </link>
+        <updated>2020-08-01T11:12:44.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>这是一篇<a href="https://mihailqian.github.io/post/introduction-a-la-syntaxe-markdown/">抄袭</a>的关于markdown语法的博客，未经授权，<s>作者打我我就删帖</s>。</p>
+</blockquote>
+<h1 id="简介">简介</h1>
+<h2 id="什么是markdown">什么是Markdown？</h2>
+<p>Markdown语言在2004年由约翰·格鲁伯（John Gruber）创设，作为一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。 由Markdown编写的文档后缀为 <code>.md</code>或<code>.markdown</code>，可导出HTML 、Word、图像、PDF、Epub 等多种格式的文档。</p>
+<h2 id="编辑器">编辑器</h2>
+<p>基于不同的使用环境，Markdown编辑器被分为：独立软件、平台集成工具（博客、网络社区自带的写作工具）以及插件三类，由于自己太菜，暂时只使用极简编辑器<a href="https://typora.io/">Typora</a>，它分为预览模式和源代码模式</p>
+<h1 id="markdown语法入门">Markdown语法入门</h1>
+<blockquote>
+<p>以下每一个_表示一个空格</p>
+</blockquote>
+<h2 id="标题">标题</h2>
+<p><code># 一级标题</code>，<code>## 二级标题</code>，以此类推，不同平台支持的标题级数可能不同（Notion最多到Heading 3）</p>
+<h2 id="插入代码">插入代码</h2>
+<h3 id="行内代码">行内代码</h3>
+<p>用反引号 `（Tab键上方的键）括住代码</p>
+<p>###缩进代码<br>
+按Tab键缩进即可键入代码<br>
+<s>那要是想缩进（而不是键入代码）怎么办啊？</s></p>
+<p>###代码块</p>
+<p>###高亮代码</p>
+]]></content>
+    </entry>
 </feed>
