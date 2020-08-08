@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i-saiah.github.io</id>
     <title>Isaiah&apos;s Notion</title>
-    <updated>2020-08-01T14:39:05.629Z</updated>
+    <updated>2020-08-08T02:50:34.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://i-saiah.github.io"/>
     <link rel="self" href="https://i-saiah.github.io/atom.xml"/>
@@ -11,11 +11,67 @@
     <icon>https://i-saiah.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Isaiah&apos;s Notion</rights>
     <entry>
-        <title type="html"><![CDATA[（抄袭）Introduction à la syntaxe Markdown]]></title>
+        <title type="html"><![CDATA[认知扭曲 | 5种阻碍快乐的思维模式]]></title>
+        <id>https://i-saiah.github.io/post/ren-zhi-niu-qu-or-5-chong-zu-ai-kuai-le-de-si-wei-mo-shi/</id>
+        <link href="https://i-saiah.github.io/post/ren-zhi-niu-qu-or-5-chong-zu-ai-kuai-le-de-si-wei-mo-shi/">
+        </link>
+        <updated>2020-08-08T03:45:34.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="是什么">是什么？</h1>
+<p><code>认知扭曲</code>（Cognitive distortions）是认知行为疗法（CBT）的创始人、心理学家贝克提出的概念。它指的是我们<strong>执着于一些并不存在、或者完全错误的认知，而这些不良的认知导致了我们负面的思考、情绪和行为</strong>。</p>
+<h1 id="哪五种">哪五种？</h1>
+<ol>
+<li><code>非黑即白，两极化</code><br>
+<em>具有非黑即白、两极化思维模式的人，人际关系容易很激烈，看问题会过于极端，且常常因为极端的认知做出极端的行动，进一步推动了关系的恶化。</em></li>
+<li><code>自动过滤</code><br>
+<em>尽管知道有些部分是正面的，情绪仍然只能沉浸于不好的部分中。</em></li>
+<li><code>过度概化</code><br>
+<em>基于自己某一次或几次的负面经验，得出非常泛化的结论，认为那些发生过一两次的坏事一定会再发生。</em></li>
+<li><code>“应该”构想</code><br>
+<em>这种刻板化的期望，让一切脱离自己掌控的细节都变成了缺陷。尤其是当他们没有达到自己的“应该”时，会讨厌自己，感到羞耻和内疚。</em></li>
+<li><code>情绪化的处理</code><br>
+<em>不以理性的规律、而是以变化不断的情绪体验来认识世界。</em></li>
+</ol>
+<h1 id="为啥">为啥？</h1>
+<ol>
+<li>为什么<code>曾经</code>产生？<br>
+<em>虽然上述五种思维模式<strong>现在</strong>看来是不良、扭曲、令我们不快的，但在<strong>曾经的成长环境</strong>中</em>*，*<em>它们的存在可能是合理、甚至必要的。</em></li>
+<li>为什么<code>现在</code>无法舍弃？
+<ul>
+<li>
+<p>思维模式是<strong>自动化</strong>的</p>
+</li>
+<li>
+<p>这种思维<strong>曾经是自身的一部分</strong><br>
+<em>我们想成为更好的自己，但这在一定程度上意味着要丢掉过往，而这样做会产生否定自己的不快或者背叛自己的内疚。</em></p>
+<p>我听见有大声音从宝座出来说：「看哪，神的帐幕在人间。他要与人同住，他们要作他的子民。神要亲自与他们同在，作他们的神。神要擦去他们一切的眼泪；不再有死亡，也不再有悲哀、哭号、疼痛，因为以前的事都过去了。」坐宝座的说：「看哪，我将一切都更新了！」又说：「你要写上；因这些话是可信的，是真实的。」</p>
+</li>
+</ul>
+</li>
+</ol>
+<h1 id="修正的思维记录表">修正的思维记录表</h1>
+<blockquote>
+<p>表格共有7项需要填写的内容，因此有理由怀疑可操作性较差~~（“我懒”的委婉说法）~~</p>
+</blockquote>
+<ol>
+<li>
+<p>出现强烈的情绪或反应时，识别并记录“场景-自动化思维”</p>
+<figure data-type="image" tabindex="1"><img src="https://i-saiah.github.io/post-images/1596854975798.png" alt="" loading="lazy"></figure>
+</li>
+<li>
+<p>检验自己的记录是否客观，操作方法为提出反方意见</p>
+</li>
+<li>
+<p>回顾“双方意见”并调整情绪</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（未完成）Introduction à la syntaxe Markdown]]></title>
         <id>https://i-saiah.github.io/post/chao-xi-introduction-a-la-syntaxe-markdown/</id>
         <link href="https://i-saiah.github.io/post/chao-xi-introduction-a-la-syntaxe-markdown/">
         </link>
-        <updated>2020-08-01T13:12:44.000Z</updated>
+        <updated>2020-08-01T16:12:44.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>这是一篇<a href="https://mihailqian.github.io/post/introduction-a-la-syntaxe-markdown/">抄袭</a>的关于markdown语法的博客，未经授权，<s>作者打我我就删帖</s>。</p>
 </blockquote>
@@ -38,6 +94,7 @@
 <s>那要是想缩进（而不是键入代码）怎么办啊？</s></p>
 <h3 id="代码块">代码块</h3>
 <h3 id="高亮代码">高亮代码</h3>
+<figure data-type="image" tabindex="1"><img src="https://i-saiah.github.io/post-images/1596719785492.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
